@@ -1,2 +1,2 @@
-a bank websit with a functional atm
+a bank website with a functional atm
 
